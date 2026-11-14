@@ -1,5 +1,7 @@
 # Cosmos-H-Surgical baseline package (WhatIf-Surg)
 
+> **New (2026-11-14):** [`video2video/`](video2video/) — the transfer (video2video) baseline with the source video as context, three versions (full GT / masked / masked + CAD), tested on an RTX 4090 in low-VRAM mode.
+
 Runs NVIDIA Cosmos-H-Surgical (v0.3.1, image2video mode) on 32 jobs and zips the videos.
 
 **Tested end to end on 2026-11-13** on Google Colab (A100-SXM4-40GB, driver 580.82, no system CUDA toolkit used). `env.sh` passed its self-test, and `SMOKE=1 bash run.sh` wrote one 832×480, 65-frame, 16 fps video (35 sampling steps at 1.7 s/step, about 1 min per video after the model loads).

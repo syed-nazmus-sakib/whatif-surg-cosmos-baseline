@@ -1,0 +1,194 @@
+[
+{
+"id": "fact_A45__24990",
+"set": "factual",
+"tool": "clipper",
+"tool_desc": "a laparoscopic clip applier",
+"action": "closes its jaws on the duct and leaves a metal clip on the tissue",
+"seed": 1
+},
+{
+"id": "fact_A46__16155",
+"set": "factual",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "fact_A57__7714",
+"set": "factual",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "fact_A64__29695",
+"set": "factual",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "fact_T_VID57__1792__hook__dissect__na__2s",
+"set": "factual",
+"tool": "hook",
+"tool_desc": "an electrocautery hook",
+"action": "touches the tissue and coagulates it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_T_VID65__1663__hook__dissect__na__2s",
+"set": "factual",
+"tool": "hook",
+"tool_desc": "an electrocautery hook",
+"action": "touches the tissue and coagulates it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_T_VID80__1488__hook__dissect__na__2s",
+"set": "factual",
+"tool": "hook",
+"tool_desc": "an electrocautery hook",
+"action": "touches the tissue and coagulates it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_B01__10825",
+"set": "factual",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_B01__9625",
+"set": "factual",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_B02__67500",
+"set": "factual",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_B09__18875",
+"set": "factual",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "fact_B17__27200",
+"set": "factual",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "cf_A64__29695__to_clipper",
+"set": "cf",
+"tool": "clipper",
+"tool_desc": "a laparoscopic clip applier",
+"action": "closes its jaws on the duct and leaves a metal clip on the tissue",
+"seed": 1
+},
+{
+"id": "cf_A64__30080__to_clipper",
+"set": "cf",
+"tool": "clipper",
+"tool_desc": "a laparoscopic clip applier",
+"action": "closes its jaws on the duct and leaves a metal clip on the tissue",
+"seed": 1
+},
+{
+"id": "cf_A54__33125__to_scissors",
+"set": "cf",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "cf_A42__49674__to_scissors",
+"set": "cf",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "cf_A58__102419__to_hook",
+"set": "cf",
+"tool": "hook",
+"tool_desc": "an electrocautery hook",
+"action": "touches the tissue and coagulates it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "cf_A58__103357__to_hook",
+"set": "cf",
+"tool": "hook",
+"tool_desc": "an electrocautery hook",
+"action": "touches the tissue and coagulates it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "cf_T_VID65__1663__hook__dissect__na__2s__to_clipper",
+"set": "cf",
+"tool": "clipper",
+"tool_desc": "a laparoscopic clip applier",
+"action": "closes its jaws on the duct and leaves a metal clip on the tissue",
+"seed": 1
+},
+{
+"id": "cf_T_VID80__1488__hook__dissect__na__2s__to_clipper",
+"set": "cf",
+"tool": "clipper",
+"tool_desc": "a laparoscopic clip applier",
+"action": "closes its jaws on the duct and leaves a metal clip on the tissue",
+"seed": 1
+},
+{
+"id": "cf_A64__29105__to_bipolar",
+"set": "cf",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "cf_A64__28955__to_bipolar",
+"set": "cf",
+"tool": "bipolar",
+"tool_desc": "bipolar forceps with blue insulated tines",
+"action": "grasp the tissue and coagulate it, leaving whitened burned tissue",
+"seed": 1
+},
+{
+"id": "cf_B09__18875__to_scissors",
+"set": "cf",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+},
+{
+"id": "cf_B26__40375__to_scissors",
+"set": "cf",
+"tool": "scissors",
+"tool_desc": "laparoscopic scissors",
+"action": "close the blades on the tissue and cut it",
+"seed": 1
+}
+]

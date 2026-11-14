@@ -1,2 +1,6 @@
 work/
 cosmos_results.zip
+video2video/work/
+video2video/inputs/videos/
+video2video/cosmos_v2v_results.zip
+__pycache__/
